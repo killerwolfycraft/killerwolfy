@@ -1,2 +1,2 @@
-- name: Discord Message Notify
+- name: Discord Message no
   uses: appleboy/discord-action@0.0.3
